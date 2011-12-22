@@ -23,6 +23,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <cstring>
 #include <DromeXml/XmlException.h>
 #include <DromeXml/XmlParser.h>
 
