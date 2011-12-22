@@ -1,0 +1,6 @@
+#include "XmlAttribute.h"
+#include "XmlDocument.h"
+#include "XmlElement.h"
+#include "XmlException.h"
+#include "XmlParser.h"
+#include "XmlTokenizer.h"

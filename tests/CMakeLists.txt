@@ -1,0 +1,2 @@
+add_executable(DromeXmlTest1 DromeXmlTest1.cpp)
+target_link_libraries(DromeXmlTest1 DromeXml)

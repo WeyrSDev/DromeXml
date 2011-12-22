@@ -1,0 +1,29 @@
+ABOUT
+-----
+DromeXml is a library for parsing simple XML data. It is written
+in C++ and can be easily incorporated into projects.
+
+DromeXml is distributed under a BSD-style license (see the
+"COPYING" file included with DromeXml for more information).
+It is developed by Josh Beam (http://joshbeam.com/).
+
+PLATFORMS
+---------
+DromeXml has been developed and tested on the following
+operating systems:
+
+    - Mac OS X 10.7 (Lion)
+    - Debian 5.0
+
+COMPILING
+---------
+DromeXml uses the CMake build system. You can compile it by
+running the following commands from within the root directory
+of the DromeXml source:
+
+$ mkdir build
+$ cd build
+$ cmake .. && make
+
+For an example of using DromeXml, see the source code in the
+tests subdirectory of the DromeXml source.
