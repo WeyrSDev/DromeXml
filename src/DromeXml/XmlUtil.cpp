@@ -23,6 +23,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <cstring>
 #include "XmlUtil.h"
 
 using namespace std;
