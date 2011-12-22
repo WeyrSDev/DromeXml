@@ -56,7 +56,7 @@ printElement(const XmlElement *element, int tabs = 0)
 }
 
 int
-main(int /*argc*/, char /* *argv[] */)
+main(int /*argc*/, char * /*argv*/ [])
 {
 	const char *xml = "<?xml version=\"1.0\"?><root><child1 attr1=\"yes\" attr2=\"no\"><grandchild attr1=\"no\" /></child1><child2 attr1=\"5\" /></root>";
 
