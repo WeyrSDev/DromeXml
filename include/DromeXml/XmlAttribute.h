@@ -27,7 +27,6 @@
 #define __DROMEXML_XMLATTRIBUTE_H__
 
 #include <string>
-#include <vector>
 
 namespace DromeXml {
 

@@ -26,6 +26,7 @@
 #ifndef __DROMEXML_XMLELEMENT_H__
 #define __DROMEXML_XMLELEMENT_H__
 
+#include <vector>
 #include "XmlAttribute.h"
 
 namespace DromeXml {
